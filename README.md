@@ -9,11 +9,12 @@ UTTabBar 点击刷新
 
 ## 环境要求
 
-> iOS8.0+
-> Xcode10.0+
+- iOS8.0+
+- Xcode10.0+
 
 ## 特性
 
+- 简单易用，只要设置 UITabBarItem 的 `refreshBlock` 属性即可启用刷新功能
 - 支持刷新动画(默认关闭动画)，默认动画是 `UIActivityIndicatorView`
 - 支持自定义刷新动画，遵守 `XPTabBarRefreshViewAnimating` 协议并设置 `refreshView` 属性即可
 
