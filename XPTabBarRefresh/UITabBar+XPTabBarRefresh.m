@@ -1,6 +1,6 @@
 //
 //  UITabBar+XPTabBarRefresh.m
-//  Example
+//  https://github.com/xiaopin/UITabBarRefresh.git
 //
 //  Created by xiaopin on 2018/11/7.
 //  Copyright © 2018 xiaopin. All rights reserved.
